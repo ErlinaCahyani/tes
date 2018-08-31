@@ -12,7 +12,7 @@
 	<?
 		if($_SERVER['REQUEST_METHOD']=='POST')
            {
-               cekNo1($_POST['n']);
+               cek($_POST['n']);
            } 
     ?>
 </body>
